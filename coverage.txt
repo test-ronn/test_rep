@@ -1,2 +1,0 @@
-mode: set
-iggre.com/dummy/normal.go:3.24,6.2 2 1
